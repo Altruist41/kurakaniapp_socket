@@ -1,0 +1,12 @@
+F:\test\assignment1\chatApp\bin\Debug\WindowsApplication.exe.config
+F:\test\assignment1\chatApp\bin\Debug\WindowsApplication.exe
+F:\test\assignment1\chatApp\bin\Debug\WindowsApplication.pdb
+F:\test\assignment1\chatApp\obj\x86\Debug\chatApp.csprojResolveAssemblyReference.cache
+F:\test\assignment1\chatApp\obj\x86\Debug\chatApp.form1.resources
+F:\test\assignment1\chatApp\obj\x86\Debug\clinet.chatApp.Properties.Resources.resources
+F:\test\assignment1\chatApp\obj\x86\Debug\chatApp.csproj.GenerateResource.Cache
+F:\test\assignment1\chatApp\obj\x86\Debug\WindowsApplication.exe
+F:\test\assignment1\chatApp\obj\x86\Debug\WindowsApplication.pdb
+F:\CMPT 842 -Assignment\assignment1\chatApp\bin\Debug\WindowsApplication.exe.config
+F:\CMPT 842 -Assignment\assignment1\chatApp\obj\x86\Debug\WindowsApplication.exe
+F:\CMPT 842 -Assignment\assignment1\chatApp\obj\x86\Debug\WindowsApplication.pdb
