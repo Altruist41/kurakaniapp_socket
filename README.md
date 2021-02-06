@@ -1,6 +1,6 @@
 # kurakaniapp_socket
 
-The server side has been built in JAVA eclipse and the client has been built with an asynchronous socket, so execution of the client application is not suspended while the server returns a response.
+Kurakani means Chatting! So, this is a chat application. The server side has been built in JAVA eclipse and the client has been built with an asynchronous socket, so execution of the client application is not suspended while the server returns a response.
 
   The Socket and ServerSocket classes from the java.net package have been used to implement client-server communication. A ServerSocket has been instantiated with a designated port 4321. A new Socket is then created to accept the ServerSocket's connection request by calling the accept() method on the ServerSocket object.
 
